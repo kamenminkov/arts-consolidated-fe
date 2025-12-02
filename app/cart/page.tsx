@@ -57,6 +57,8 @@ export default function CartPage() {
 
 							<div className="flex items-center gap-2">
 								<input
+									aria-label="Quantity"
+									placeholder=""
 									type="number"
 									min={1}
 									value={it.quantity}
