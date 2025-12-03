@@ -9,7 +9,7 @@ export default function Nav() {
 		<header className="w-full bg-white dark:bg-zinc-900 border-b">
 			<nav className="max-w-4xl mx-auto p-4 flex items-center gap-4">
 				<Link href="/" className="text-emerald-600 hover:underline">
-					Home
+					Arts Consolidated FE Assignment
 				</Link>
 
 				<div className="ml-auto">
